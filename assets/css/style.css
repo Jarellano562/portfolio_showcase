@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: rgb(111, 116, 144);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* APPLYING STYLE TO THE HEADER */
+header {
+    padding: 20px 35px;
+    background-color: rgb(4, 0, 47);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    top: 0;
+    background-position: center;
+}
+
+header h1 {
+    padding: 15px 0px;
+    font-weight: normal;
+    font-size: 3vw;
+    margin: 0;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
+
+header a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+header nav {
+    margin: 20px 0;
+}
+
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+header nav ul li a {
+    padding: 10px 15px;
+    font-weight: normal;
+    font-size: 2vw;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+header nav ul li a:hover {
+    background: rgb(111, 116, 144);
+    color: rgb(225, 225, 225);
+    border-radius: 2px 13px 10px 66px;
+    text-shadow: none;
+}
