@@ -2,7 +2,7 @@
 
 ## Portfolio Showcae
 
-### Degital Résumé 
+### Digital Résumé 
 
 https://jarellano562.github.io/portfolio_showcase/
 
