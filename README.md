@@ -8,7 +8,7 @@ https://jarellano562.github.io/portfolio_showcase/
 
 ### Screenshot
 
-![](portfolio-showcase/assets/images/screenshot.png)
+![HOMEPAGE](./assets/images/screenshot.png)
 
 ### User Story
 
