@@ -1,6 +1,6 @@
 # portfolio_showcase
 
-## PORTOLIO SHOWCASE
+## PORTFOLIO SHOWCASE
 
 ### DIGITAL RESUME 
 
