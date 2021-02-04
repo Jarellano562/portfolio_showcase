@@ -1,16 +1,16 @@
 # portfolio_showcase
 
-## Portfolio Showcae
+## PORTFOLIO SHOWCASE
 
-### Degital Résumé 
+### DIGITAL RESUME 
 
 https://jarellano562.github.io/portfolio_showcase/
 
-### Screenshot
+### SCREENSHOT
 
-![](portfolio-showcase/assets/images/screenshot.png)
+![HOMEPAGE](./assets/images/screenshot.png)
 
-### User Story
+### USER STORY
 
 ```text
 AS AN employer looking for candidates with experience building single-page applications
@@ -18,7 +18,7 @@ I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 ```
 
-### Acceptance Criteria
+### WEBPAGE CRITERIA
 
 ```text
 GIVEN a single-page application portfolio for a web developer
