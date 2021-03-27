@@ -1,0 +1,46 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "test-dev": "npm test",
+    "start": "concurrently --kill-others \"node server.js\" \"node timed-emails.js\"",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haydenkd/MailFlyer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haydenkd/MailFlyer/issues"
+  },
+  "homepage": "https://github.com/haydenkd/project-2#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "bulma": "^0.9.2",
+    "concurrently": "^6.0.0",
+    "connect-session-sequelize": "^7.1.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "express-session": "^1.17.1",
+    "jest": "^26.6.3",
+    "mysql2": "^2.2.5",
+    "node": "^15.10.0",
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.5.0",
+    "nodemon": "^2.0.7",
+    "seed": "^0.4.4",
+    "sequelize": "^6.5.1"
+  }
+}
